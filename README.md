@@ -1,2 +1,2 @@
 # hello-world
-Ahem...Tutorial purposes I guess
+I hope it'll grow into something bigger.
